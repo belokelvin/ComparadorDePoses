@@ -95,7 +95,10 @@ O projeto foi testado no Ubuntu. As dependências estão listadas no requirement
 ## Demonstração
 Veja o vídeo de demonstração do projeto aqui.
 
-[Assista ao vídeo de demonstração do projeto](https://github.com/belokelvin/ComparadorDePoses/raw/main/Video_teste/Teste_demo.mp4)
+<video width="640" height="480" controls>
+  <source src="https://github.com/belokelvin/ComparadorDePoses/raw/main/Video_teste/Teste_demo.mp4" type="video/mp4">
+</video>
+
 
 
 ## Contribuições
