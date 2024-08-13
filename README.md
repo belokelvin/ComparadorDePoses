@@ -93,11 +93,9 @@ Certifique-se de que o vídeo especificado na linha `cap = cv2.VideoCapture(r'Vi
 O projeto foi testado no Ubuntu. As dependências estão listadas no requirements.txt.
 
 ## Demonstração
-Veja o vídeo de demonstração do projeto aqui.
+Veja a demonstração do projeto aqui.
 
-<video width="640" height="480" controls>
-  <source src="https://github.com/belokelvin/ComparadorDePoses/raw/main/Video_teste/Teste_demo.mp4" type="video/mp4">
-</video>
+[![Demonstração do funcionamento do código em tempo real](https://github.com/belokelvin/ComparadorDePoses/blob/main/Video_teste/Teste_demo.gif)
 
 
 
