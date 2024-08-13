@@ -1,0 +1,6 @@
+opencv-python-headless
+streamlit
+scipy
+fastdtw
+mediapipe
+# linkedin.com/kelvin-crdz/
