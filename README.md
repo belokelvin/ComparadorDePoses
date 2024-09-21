@@ -1,9 +1,3 @@
-Claro! Aqui está uma versão aprimorada do README, incluindo a funcionalidade de demonstração usando a webcam:
-
----
-
-# README
-
 ## Visão Geral
 
 Este repositório contém scripts para comparar movimentos corporais entre dois vídeos ou diretamente usando a webcam, utilizando o modelo de detecção de pose do MediaPipe. O objetivo principal é medir a similaridade entre as poses detectadas nos vídeos de referência e usuário, fornecendo feedback visual sobre a precisão dos movimentos.
